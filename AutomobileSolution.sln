@@ -5,9 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileLirary", "AutomobileLirary\AutomobileLirary.csproj", "{98A186CE-8702-4BF2-B5C8-6A6F462774BF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_singleton", "test\test_singleton.csproj", "{265981C1-3A88-4087-8F19-F79568D1964E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileWinApp", "AutomobileWinApp\AutomobileWinApp.csproj", "{98A43953-FC97-4C11-8C28-983CB6AD8919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileWinApp", "AutomobileWinApp\AutomobileWinApp.csproj", "{98A43953-FC97-4C11-8C28-983CB6AD8919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{98A186CE-8702-4BF2-B5C8-6A6F462774BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A186CE-8702-4BF2-B5C8-6A6F462774BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A186CE-8702-4BF2-B5C8-6A6F462774BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{265981C1-3A88-4087-8F19-F79568D1964E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{265981C1-3A88-4087-8F19-F79568D1964E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{265981C1-3A88-4087-8F19-F79568D1964E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{265981C1-3A88-4087-8F19-F79568D1964E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{98A43953-FC97-4C11-8C28-983CB6AD8919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{98A43953-FC97-4C11-8C28-983CB6AD8919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A43953-FC97-4C11-8C28-983CB6AD8919}.Release|Any CPU.ActiveCfg = Release|Any CPU
